@@ -1,0 +1,10 @@
+{
+  "openai_api_key": "sk-",
+  "embedding_model": "text-embedding-3-large",
+  "generation_model": "gpt-5.2",
+  "chunk_size": 800,
+  "chunk_overlap": 150,
+  "top_k": 15,
+  "data_directory": "data",
+  "literature_directory": "literature"
+}
