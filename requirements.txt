@@ -1,0 +1,6 @@
+openai
+faiss-cpu
+numpy
+pymupdf
+tk
+tqdm
